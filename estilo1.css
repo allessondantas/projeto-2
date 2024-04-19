@@ -1,0 +1,13 @@
+.body{
+   margin:100px
+}
+.exemplo{
+   background-color: black;
+   width:100%;
+   height:100px;
+   color:#fff;
+   padding: 35px 600px 15px 600px
+}
+img{
+   width:auto;
+}

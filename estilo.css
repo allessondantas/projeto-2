@@ -1,0 +1,30 @@
+ button{font-size:15px;color:rgb(214, 8, 8);font-weight:bold;}
+
+ #primeiro {
+   color:#000}
+ #segundo {
+   color:rgb(255, 115, 0)}
+
+h2{border:3px solid#000;background-color: rgb(43, 195, 84);color:#000;width:885px;height:90px;
+  padding-left:550px;height:40px;border-radius: 07px;display: 00px; padding-top: 200px;}
+
+  .Renauta{color:rgb(255, 0, 0);font-size:20px}
+  .Renautb{color:rgb(59, 135, 20);font-size:20px}
+  .Renautc{color:rgb(55, 59, 59);font-size:20px}
+  .Renautd{color:rgb(64, 0, 255);font-size:20px}
+  .Renauta,.Renautc{font-weight:bold}
+
+html{border:4px solid#000;background-color: rgb(147, 162, 162);border-radius: 5px;height:700px}
+
+img{border:2px solid#000;background-color:#44469b}
+
+ ol{border:2px solid#000;border-radius:6px;background-color:#0ff;
+  padding-left: 30px;padding-top: 4px;width:300px;height:90px;}
+
+ div{background: #000000;width:200px;height:10px;border-radius: 100px;}
+
+ .Filho{border:2px solid#000;border-radius:10px;background-color: rgb(43, 61, 195);color:#000;padding-left:10px;
+  padding-right: 10px;padding-bottom: 4px;padding-top: 4px;}
+
+ .A1,.A2{border-radius:5px;border:2px solid#000;background-color:#564;padding-left: 5px;padding-top: 5px;padding-bottom: 5px;padding-right: 5px;
+ }
